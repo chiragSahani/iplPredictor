@@ -20,7 +20,7 @@ The **IPL Victory Probability Estimator** is a predictive model designed to fore
 ## Installation & Usage
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/chiragSahani/iplPredictor.git]
+   git clone https://github.com/chiragSahani/iplPredictor.git
    cd ipl-victory-estimator
    ```
 2. **Install dependencies:**
